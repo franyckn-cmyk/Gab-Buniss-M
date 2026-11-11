@@ -1,0 +1,6 @@
+{
+  "name": "Gabon Business Map",
+  "description": "Plateforme nationale interactive de référencement, géolocalisation et découverte des entreprises dans les 9 provinces du Gabon avec cartographie dynamique et assistant IA.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

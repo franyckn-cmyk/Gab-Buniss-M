@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pharmacie du Gabon",
+    "category": "Santé & Pharmacie",
+    "province": "Estuaire",
+    "city": "Libreville",
+    "address": "Boulevard Triomphal, Face à l'Hôtel de Ville",
+    "lat": 0.392154,
+    "lng": 9.452148,
+    "phone": "+241 11 72 00 00",
+    "email": "contact@pharmaciedugabon.ga",
+    "description": "Pharmacie de garde ouverte 24h/24 et 7j/7."
+  },
+  {
+    "name": "Hôtel Mandji",
+    "category": "Hôtellerie & Restauration",
+    "province": "Ogooué-Maritime",
+    "city": "Port-Gentil",
+    "address": "Avenue de l'Indépendance",
+    "lat": -0.719305,
+    "lng": 8.781512,
+    "phone": "+241 11 55 21 00",
+    "email": "reservation@hotelmandji.ga",
+    "description": "Hôtel 4 étoiles au cœur de Port-Gentil."
+  }
+]
